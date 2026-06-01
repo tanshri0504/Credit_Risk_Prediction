@@ -372,4 +372,4 @@ st.markdown("---")
 st.markdown(
     "Developed using Streamlit, Scikit-Learn, and XGBoost 🚀"
 )
-```
+
